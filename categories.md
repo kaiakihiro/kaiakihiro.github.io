@@ -1,6 +1,6 @@
 ---
-title: Categories
+title: カテゴリー
 layout: categories
-excerpt: "Category index"
+excerpt: "カテゴリー別の記事一覧"
 aside: true
 ---
